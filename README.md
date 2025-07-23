@@ -1,6 +1,6 @@
 # Blog
 
-A clean, responsive blog website built using **React** and **CSS Modules**, inspired by Medium-style layouts. It features dynamic routing, post previews, image-backed post headers, and a minimalist design.
+A clean, responsive blog website built using **React** and **CSS Modules**, inspired by Medium-style layouts. It features dynamic routing, post previews, image-backed post headers, and a minimalist design. - https://myblog34.netlify.app/
 
 ## Features
 
